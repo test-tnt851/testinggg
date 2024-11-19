@@ -4,7 +4,7 @@
 
 [ 详细文档点击这里 ](https://github.com/thx/gogocode/blob/main/docs/specification/basic.zh.md)
 
-## What is GoGoCode123?
+## What is GoGoCode123456?
 
 [中文 README](README-cn.md)
 
